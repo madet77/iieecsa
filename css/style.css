@@ -1,0 +1,25 @@
+body{
+	font-size: 14px;
+}
+
+/*home*/
+#home .bx-wrapper .bx-pager.bx-default-pager a:hover, .bx-wrapper .bx-pager.bx-default-pager a.active, .bx-wrapper .bx-pager.bx-default-pager a:focus {
+    background: #3638cc;
+    opacity: 1 !important;
+}
+
+#home .bx-wrapper .bx-pager.bx-default-pager a {
+    background: #3638cc;
+    opacity: 0.6;
+}
+#home .bx-wrapper .bx-pager{
+	text-align: right;
+	padding-right: 2rem;
+}
+
+.bx-controls{
+	position: absolute;
+	width: 100%;
+	left: 0;
+	bottom: 0;
+}
