@@ -1,3 +1,18 @@
+.ma{
+	margin: auto !important;
+}
+.m0{
+	margin: 0 !important;
+}
+.mt20{
+	margin-top: 2rem !important;
+}
+.mt40{
+	margin-top: 4rem !important;
+}
+.mb0{
+	margin-bottom: 0rem !important;
+}
 .mb20{
 	margin-bottom: 2rem !important;
 }
@@ -12,4 +27,33 @@
 
 .c-blue{
 	color: #3638cc !important;
+}
+
+.w90{
+	width: 90% !important;
+}
+.w80{
+	width: 80% !important;
+}
+
+.df-center{
+	display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex !important;
+    -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+}
+
+.of-h{
+    overflow: hidden;
+}
+
+.rel{
+    position: relative;
 }

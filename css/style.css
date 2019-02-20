@@ -2,16 +2,20 @@ body{
 	font-size: 14px;
 }
 
-/*home*/
-#home .bx-wrapper .bx-pager.bx-default-pager a:hover, .bx-wrapper .bx-pager.bx-default-pager a.active, .bx-wrapper .bx-pager.bx-default-pager a:focus {
-    background: #3638cc;
-    opacity: 1 !important;
+h4{
+	font-size: 1.3em;
+}
+.f-bold{
+	font-weight: bold;
 }
 
-#home .bx-wrapper .bx-pager.bx-default-pager a {
-    background: #3638cc;
-    opacity: 0.6;
+.fs-16{
+	font-size: 1.1em !important;
 }
+.fs-12{
+	font-size: .9em !important;
+}
+/*home*/
 #home .bx-wrapper .bx-pager{
 	text-align: right;
 	padding-right: 2rem;
