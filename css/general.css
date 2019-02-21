@@ -4,6 +4,9 @@
 .m0{
 	margin: 0 !important;
 }
+.mt0{
+	margin-top: 0 !important;
+}
 .mt20{
 	margin-top: 2rem !important;
 }
@@ -28,7 +31,9 @@
 .c-blue{
 	color: #3638cc !important;
 }
-
+.w100{
+	width: 100% !important;
+}
 .w90{
 	width: 90% !important;
 }
@@ -56,4 +61,8 @@
 
 .rel{
     position: relative;
+}
+
+.brad-20{
+	border-radius: 20px;
 }
